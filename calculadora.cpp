@@ -2,7 +2,7 @@
 #include <string>
 int main(int argc, char *argv[])
 {
- std::cout << "welcome calculadora.cpp! insert number"
+ std::cout << "welcome calculadora.cpp! insert number";
  int input = input;
  int input1 = input1;
  std::cin >> input;
